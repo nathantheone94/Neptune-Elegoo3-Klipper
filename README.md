@@ -1,6 +1,8 @@
-# Klipper Config File for Elegoo Neptune 3 (WIP)
+[# Klipper Config File for Elegoo Neptune 3 (WIP)
 
-Base printer config file for **Klipper** (based on the original code from [jerryngm](https://github.com/jerryngm/Neptune-Elegoo3-Klipper)). **Use at your own risk!!** Please read the comments in the file, you will need to calibrate multiple things specially the heater PID for the hotend and bed.  
+Base printer config file for **Klipper** (based on the original code from [jerryngm](https://github.com/jerryngm/Neptune-Elegoo3-Klipper) & [bsas](https://github.com/jerryngm/Neptune-Elegoo3-Klipper)). **Use at your own risk!!** Please read the comments in the file, you will need to calibrate multiple things specially the heater PID for the hotend and bed. 
+
+Precompiled firmware for the Neptune 3 mainboard can be found in the firmware folder
 
 ## 📄 **Done:**  
  ✔️ X Y Z E Steppers and Endstops  
@@ -55,3 +57,4 @@ Base printer config file for **Klipper** (based on the original code from [jerry
  
  
  2. For **Pressure Advance** just follow the [official documentation](https://www.klipper3d.org/Pressure_Advance.html) and use the configuration for **long bowden extruders**.
+](https://github.com/bsas/Neptune-Elegoo3-Klipper)
